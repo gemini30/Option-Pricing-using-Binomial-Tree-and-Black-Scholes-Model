@@ -43,3 +43,5 @@ int main(int argc, const char * argv[]) {
 
     return 0;
 }
+// compile code and chnage : g++ -o option main.cpp option.cpp -lm
+// Run : .\option.exe
